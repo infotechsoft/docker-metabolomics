@@ -12,7 +12,7 @@ docker run -it --rm -v "${PWD}"/data -w /data infotechsoft/metabolomics /bin/bas
 ```
 
 ## Build Details
- * [r-base](https://hub.docker.com/_/r-base/): 3.5.1
+ * [r-base](https://hub.docker.com/_/r-base/): 4.0.2
  * Bioconductor Packages:
    * [XCMS](https://bioconductor.org/packages/release/bioc/html/xcms.html) LC/MS and GC/MS Data Analysis
    * [CAMERA](https://bioconductor.org/packages/release/bioc/html/CAMERA.html) Collection of annotation related methods for mass spectrometry data
